@@ -12,4 +12,5 @@ b.SQL (MySQL): For setting up databases and analytical querying.
 c.Power BI: For interactive data visualization and business intelligence reporting
 ## Datasets
 <\n>-https://github.com/001Lucky/Streaming-Service-Content-Performance-Analysis/blob/main/streaming_user_viewing_data.csv<n/>
--https://github.com/001Lucky/Streaming-Service-Content-Performance-Analysis/blob/main/validated01_subscription_data.xls<n/>
+<n/>-https://github.com/001Lucky/Streaming-Service-Content-Performance-Analysis/blob/main/validated01_subscription_data.xls<n/>
+<n/> -https://github.com/001Lucky/Streaming-Service-Content-Performance-Analysis/blob/main/streaming_content_library.csv(n/>
